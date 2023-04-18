@@ -1,23 +1,20 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+This is a basic "Hello World" program. I created this program to configure VS Code and github to make sure I could create and edit repositories.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Visual Studio Code
+* Python 3.11.2 64-bit
+* Git / Github
 
-{Describe the programming language that you used}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Git](https://git-scm.com/download)
+* [Github](https://www.github.com)
+* [Python Reference Library](https://docs.python.org/3/library/index.html)
