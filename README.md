@@ -1,8 +1,10 @@
 # Overview
 
-This is a basic "Hello World" program. I created this program to configure VS Code and github to make sure I could create and edit repositories.
+This is a basic "Hello World" program. I created this program to configure VS Code and github to ensure that I could create and edit repositories.
 
-[Software Demo Video](http://youtube.link.goes.here)
+Click the software demo video link to see a video demonstration of the program and it's code:
+
+[Software Demo Video](https://youtu.be/_f9xJ4krzyw)
 
 # Development Environment
 
